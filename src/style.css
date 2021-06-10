@@ -1,3 +1,11 @@
 body {
+  margin-top: 50px;
   background: rgb(153, 122, 144);
+}
+img {
+  display: block;
+  margin: auto;
+}
+a {
+  color: #fff;
 }
